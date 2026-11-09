@@ -1,5 +1,6 @@
-# Chronic Headache & Psychedelics — survey recreation (rev 17)
+# Chronic Headache & Psychedelics: survey recreation
 
-Self-contained interactive recreation of the deployed rev-17 questionnaire,
-rebuilt from its stored survey definition. Contains no participant data.
+Self-contained interactive recreation of the questionnaire in the two versions
+participants saw (launch, March 2025, and the September 2025 update), rebuilt from
+the survey definitions stored with the responses. Contains no participant data.
 Open `index.html` (or the GitHub Pages URL) in any browser.
